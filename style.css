@@ -1,0 +1,15 @@
+hr{
+/* background-color:White; */
+/* height: 2px; */
+/* width: 10%; */
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 30%;
+
+}
+img{
+  height: 100px;
+  width:100px;
+}
